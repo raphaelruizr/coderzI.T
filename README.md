@@ -38,7 +38,9 @@ String
 string de forma invertida.
 
 PS: Conforme os exercicios vão sendo feitos, vou "commitando" junto com os questionário respectivamente.
+
 PS: Os exercícios serão acompanhados, verificados e corrigidos.
+
 PS: As respostas são feitas sem copiar de outras fontes, para testar meu aprendizado até o momento da conclusão do exercício. Lembrando que existem outras formas para se obter a mesma resposta.
 
 - Raphael Ruiz -
